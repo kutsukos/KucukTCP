@@ -6,4 +6,4 @@ This is the class project for CS-335a (www.csd.uoc.gr/~hy335a/) for the Fall 201
 The exercise description is written in Greek, but the report is in English.
 
 ## Contact <a name="contact"></a>
-Contact me at <code>skarisg@gmail.com</code> or <code>ioannis.kutsukos@gmail.com</code> for reporting bugs or anything else! :)
+Contact me at <code>ioannis.kutsukos@gmail.com</code> for reporting bugs or anything else! :)
